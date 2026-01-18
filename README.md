@@ -1,6 +1,5 @@
 # Tic-Tac-Toe-_AI-game
 A Python-based Tic-Tac-Toe game featuring an unbeatable AI using the Minimax Algorithm. Includes both a command-line interface and a Tkinter-based Graphical User Interface (GUI).
-# Tic-Tac-Toe AI (Minimax)
 
 This is a Python-based Tic-Tac-Toe game where you can play against a friend or a "smart" computer. The computer is powered by the **Minimax Algorithm**, which makes it impossible to beat!
 
